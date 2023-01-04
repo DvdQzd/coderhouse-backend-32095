@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "ejemploclase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
